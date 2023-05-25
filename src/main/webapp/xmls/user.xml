@@ -1,0 +1,19 @@
+<users>
+    <user>
+        <name>Yashas</name>
+        <age>22</age>
+        <gender>Male</gender>
+    </user>
+
+    <user>
+        <name>Shashu</name>
+        <age>22</age>
+        <gender>Female</gender>
+    </user>
+
+    <user>
+        <name>Raghav</name>
+        <age>22</age>
+        <gender>Male</gender>
+    </user>
+</users>

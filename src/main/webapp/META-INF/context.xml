@@ -1,0 +1,13 @@
+<Context>
+    <Resource name="jdbc/jstl_jndi"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxActive="25"
+              maxIdle="5"
+              maxWait="10000"
+              username="root"
+              password="kjm40329"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql://127.0.0.1:3306/jstl_jndi?useSSL=false"
+    />
+</Context>
